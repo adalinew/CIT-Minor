@@ -1,4 +1,4 @@
-# CIT-Minor
+# CIT-281
 
 ## Projects
 * Project-1
